@@ -16,7 +16,7 @@ An interactive galaxy particle experience where users can control and move galax
 - Hand Tracking (if implemented)
 
 ## 🚀 Live Demo
-Coming Soon!
+https://peehumahajan.github.io/Galaxy_Particle_in_Motion/
 
 ## 👩‍💻 Created By
 Peehu Mahajan
