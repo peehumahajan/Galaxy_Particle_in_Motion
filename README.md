@@ -13,7 +13,7 @@ An interactive galaxy particle experience where users can control and move galax
 - HTML
 - CSS
 - JavaScript
-- Hand Tracking (if implemented)
+- Hand Tracking 
 
 ## 🚀 Live Demo
 https://peehumahajan.github.io/Galaxy_Particle_in_Motion/
